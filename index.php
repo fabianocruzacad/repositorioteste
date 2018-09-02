@@ -8,10 +8,10 @@
 <?php 
 
 $var = "hello World";
-echo $var;
+	echo $var;
 
 ?>
-....
+
 
 </body>
 </html>
